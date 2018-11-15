@@ -1,5 +1,5 @@
 {
-  "name": "nextts",
+  "name": "nexts",
   "version": "0.0.1",
   "description": "Typescript optimised wrapper around NextJS.",
   "main": "./lib/index.js",
